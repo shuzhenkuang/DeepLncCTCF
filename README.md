@@ -1,6 +1,8 @@
 # DeepLncCTCF for identification and analysis of consensus RNA motifs binding to the genome regulator CTCF
 DeepLncCTCF is a deep learning model to discover the RNA recognition patterns of CTCF and to identify candidate lncRNAs that may interact with CTCF. It utilized convolutional neural networks (CNNs) and attention-based bi-directional long short-term memory (BLSTM) network. We implemented the DeepLncCTCF model in Python using Keras 2.2.4 on a high performance computing cluster.
 
+This documentation is part of the supplementary information release for DeepLncCTCF. For details of this work, please refer to our paper "Identification and analysis of consensus RNA motifs binding to the genome regulator CTCF" (S. Kuang and L. Wang, 2020).
+
 ## Requirements
 - python3
 - numpy 
